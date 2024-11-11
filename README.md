@@ -1,5 +1,5 @@
 - 👋 @suhye0n
-- 📫 claphyeon@kumoh.ac.kr
+- 📫 contact.suhyeon@gmail.com
 
 ---
 

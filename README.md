@@ -51,8 +51,7 @@
 <div align="center">
 
 [![Suhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhye0n&show_icons=true&theme=tokyonight)](https://github.com/suhye0n)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhye0n&layout=compact&theme=tokyonight)](https://github.com/suhye0n)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=suhye0n&theme=tokyonight&hide_border=true)](https://github.com/suhye0n)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhye0n&layout=compact&theme=tokyonight)](https://github.com/suhye0n)
 
 </div>
 

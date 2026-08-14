@@ -50,9 +50,3 @@
   <img src='https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white'>
   <img src='https://img.shields.io/badge/AWS-232F3E?style=flat&logoColor=white'>
 </div>
-
----
-
-## 🌱 GitHub Garden
-
-![GitGarden](https://gitgarden.marshallku.dev/?user_name=suhye0n)
